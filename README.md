@@ -6,8 +6,8 @@ Date of Birth: 20 Aug 2003
 Residence: Pune, MH, India 🇮🇳
 Nick Name: AJ
 
-WhatsApp / Email / Telegram / LinkedIn / GitHub / Twitter / Instagram
 
+[Whatsapp](https.//wa.me/+91932524711)
 ⚜️ Current Affairs
 Note: work in process and maintainance
 
