@@ -7,7 +7,7 @@ _**Website Developer and Professional Ethical Hacker based in India 🇮🇳**_
 **Nick Name:** AJ
 
 
-[Whatsapp](https://wa.me/+919325324711)/ [Instagram](https://www.instagram.com/_https.cyberexpert__) / [Email ID](mail:atharvyewale102@gmail.com)
+[Whatsapp](https://wa.me/+919325324711)/ [Instagram](https://www.instagram.com/_https.cyberexpert__) / [Email ID](mailto:atharvyewale102@gmail.com)
 ## ⚜️ Current Affairs
 _**Note: work in process and maintainance**_
 
