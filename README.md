@@ -25,71 +25,72 @@ _**Note: All Are professionals on rank based of indian institues**_
 
 ## 👩🏼‍💻 Development Experience
 
-Frontend Developer @BRYTER (Dec 2022 - Mar 2023)
-No-code platform that enables professionals to build interactive applications.
+**Frontend Developer @BRYTER (Dec 2022 - Mar 2023)**
+_No-code platform that enables professionals to build interactive applications._
 
 Founding member of BRYTER's design system team and continued to provide support and extend the component library
 Wrote code in multiple architecture layers, including the application core and integrations with external services
 Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
 Technologies used: Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
 
-Frontend Engineer @Blacklane (Mar 2022 - Sep 2022)
-Professional chauffeur service available in over 300 cities worldwide.
+**Frontend Engineer @Blacklane (Mar 2022 - Sep 2022)**
+_Professional chauffeur service available in over 300 cities worldwide._
 
 Worked in a cross-functional, agile team to rebuild and rebrand the B2C booking experience
 Led an accessibility initiative resulting in the website passing WCAG 2.0 requirements
 Extended and maintained a company-wide design system
 Technologies used: HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
 
-Technical Writer @Contentful (Sep 2022 - Feb 2023)
-API-first infrastructure to create, manage and distribute content.
+**Technical Writer @Contentful (Sep 2022 - Feb 2023)**
+_API-first infrastructure to create, manage and distribute content._                    
 
-Ownership of Contentful's technical blog
+**Ownership of Contentful's technical blog**
 Assistance with information architecture and UX writing for the web app
 Technologies used: React, Gatsby, Node.js, GraphQL, REST, Contentful.
-Selected writing:
+**_Selected writing:_**
 JavaScript SDK guide
 Node.js example app and courses
 Concept references: Domain model, Multiple environments
 <br><br>
 
 ## 🗞 Professional Ethical Hacking Experience
-This section only accounts for work done post-career change.
+_**This section only accounts for work done post-career change.**_
 
 
-Intelligence Beuro @ IB-Forensic (Jan 2022 - Jul 2022)
-The Intelligence Bureau (IB) is like the country's secret guardian, gathering valuable information to keep our nation safe.
+**Intelligence Beuro @ IB-Forensic (Jan 2022 - Jul 2022)**
+_The Intelligence Bureau (IB) is like the country's secret guardian, gathering valuable information to keep our nation safe._
 
 IB agents work behind the scenes, collecting intelligence on various matters of concern, like terrorism, espionage, and internal security threats.
 Responsibilities. Shrouded in secrecy, the IB is used to garner intelligence from within India and also execute counter-intelligence and counter-terrorism tasks.
 The Bureau comprises employees from law enforcement agencies, mostly from the Indian Police Service (IPS) or the Indian Revenue Service (IRS) and the military
 Previously worked as a Reporter from Jul 2022 - Oct 2022
 
-IBM Security IBM Security: Remote Backdoors Developer
-Selected articles:
+**IBM Security IBM Security:** Remote Backdoors Developer
+**Selected articles:**
 What Is a Backdoor Attack? - CrowdStrike
 Demystifying backdoor attacks on deep neural networks
 Backdoor Deployment and Ransomware
 <br><br>
 
 ## 💬 Languages
-🇮🇳 Marathi: Native
-🇮🇳 Hindi: B1 🇺🇸 English: B2
+🇮🇳 Marathi: Native <br>
+🇮🇳 Hindi: B1 <br>
+🇺🇸 English: B2
 <br><br>
 
 
 ## 👩🏼‍🎓 Education
-18-Months intensive coding course focused on Professional Ethical Hacking
-EC-Council - MH, INDIA (Apr 2020 - Apr 2021)
+**_18-Months intensive coding course focused on Professional Ethical Hacking_**
+[EC-Council](https://www.eccouncil.org/) - _MH, INDIA (Apr 2020 - Apr 2021)_
 
-Offensive Security Wireless Professional (OSWP)
-Offensive Security - Delhi, India (2021 - 2022)
+**_Offensive Security Wireless Professional (OSWP)_**
+[Offensive Security](https://www.offsec.com/) - _Delhi, India (2021 - 2022)_
 
-OffSec Experienced Penetration Tester (OSEP)
-Offensive Security - Delhi, India (Fall 2022)
+**_OffSec Experienced Penetration Tester (OSEP)_**
+[Offensive Security](https://www.offsec.com/) -_ Delhi, India (Fall 2022)_
 
-Offensive Security Exploit Developer (OSED)
-Offensive Security - Delhi, India (Spring 2022)
+**_Offensive Security Exploit Developer (OSED)_**
+[Offensive Security](https://www.offsec.com/) - _Delhi, India (Spring 2022)_
 
-Manipal University Jaipur complete the Hsc
+**_Manipal University Jaipur complete the Hsc_**
 Vartak Nagar Madhyamik School Thane Complete The SSC
