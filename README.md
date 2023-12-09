@@ -1,25 +1,27 @@
 ## 𝗔𝘁𝗵𝗮𝗿𝘃 𝗬𝗲𝘄𝗮𝗹𝗲
-_**Website Developer and Professional Ethical Hacker based in India 🇮🇳**_
+_**Website Developer and Professional Ethical Hacker based in India 🇮🇳**_ <br>
 
 ## 🔐 Personal Information
-**Date of Birth:** 20 Aug 2003
-**Residence:** Pune, MH, India 🇮🇳
-**Nick Name:** AJ
+**Date of Birth:** 20 Aug 2003 <br>
+**Residence:** Pune, MH, India 🇮🇳 <br>
+**Nick Name:** AJ <br><br>
 
 
 [Whatsapp](https://wa.me/+919325324711)/ [Instagram](https://www.instagram.com/_https.cyberexpert__) / [Email ID](mailto:atharvyewale102@gmail.com)
+
 ## ⚜️ Current Affairs
 _**Note: work in process and maintainance**_
 
 **1st startup** - _Ayekar Infotech pvt ltd - Web3, ERP, Digital Networking, Cyber Security, CEH, Web Development, App Development & Software Development._
-**2nd startup** - _HotDate - the indian dating app 2023 - Romance, dating, relationship & love._
+**2nd startup** - _HotDate - the indian dating app 2023 - Romance, dating, relationship & love._ 
+<br><br>
 
 ## 💼 Team Members & Partners
 _**Note: All Are professionals on rank based of indian institues**_
 
-**CEO & FOUNDER** - Atharva J. Yewale _Of HotDate - The Indian Dating App._
-**MD** - Karan D. Thanage _of Ayekar infotech pvt ltd & HotDate - The Indian Dating App._
-**CFO** - Mujahid Bagwan _of Ayekar infotech pvt ltd & HotDate - The Indian Dating App._
+**CEO & FOUNDER** - Atharva J. Yewale _Of HotDate - The Indian Dating App._ <br>
+**MD** - Karan D. Thanage _of Ayekar infotech pvt ltd & HotDate - The Indian Dating App._ <br> 
+**CFO** - Mujahid Bagwan _of Ayekar infotech pvt ltd & HotDate - The Indian Dating App._ <br><br>
 
 ## 👩🏼‍💻 Development Experience
 
@@ -49,6 +51,7 @@ Selected writing:
 JavaScript SDK guide
 Node.js example app and courses
 Concept references: Domain model, Multiple environments
+<br><br>
 
 ## 🗞 Professional Ethical Hacking Experience
 This section only accounts for work done post-career change.
@@ -67,10 +70,12 @@ Selected articles:
 What Is a Backdoor Attack? - CrowdStrike
 Demystifying backdoor attacks on deep neural networks
 Backdoor Deployment and Ransomware
+<br><br>
 
 ## 💬 Languages
 🇮🇳 Marathi: Native
 🇮🇳 Hindi: B1 🇺🇸 English: B2
+<br><br>
 
 
 ## 👩🏼‍🎓 Education
@@ -87,4 +92,4 @@ Offensive Security Exploit Developer (OSED)
 Offensive Security - Delhi, India (Spring 2022)
 
 Manipal University Jaipur complete the Hsc
-Vartak Nagar Madhyamik School Complete The SSC
+Vartak Nagar Madhyamik School Thane Complete The SSC
