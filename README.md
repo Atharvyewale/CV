@@ -7,7 +7,7 @@ Residence: Pune, MH, India 🇮🇳
 Nick Name: AJ
 
 
-[Whatsapp](https.//wa.me/+91932524711)
+[Whatsapp](https://wa.me/+919325324711)/ [Instagram](https://www.instagram.com/_https.cyberexpert__) / [Email ID](mail:atharvyewale102@gmail.com)
 ⚜️ Current Affairs
 Note: work in process and maintainance
 
