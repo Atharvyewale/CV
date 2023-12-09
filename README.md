@@ -1,25 +1,28 @@
-#𝗔𝘁𝗵𝗮𝗿𝘃 𝗬𝗲𝘄𝗮𝗹𝗲
-Website Developer and Professional Ethical Hacker based in India 🇮🇳
+## 𝗔𝘁𝗵𝗮𝗿𝘃 𝗬𝗲𝘄𝗮𝗹𝗲
+_**Website Developer and Professional Ethical Hacker based in India 🇮🇳**_
 
-🔐 Personal Information
-Date of Birth: 20 Aug 2003
-Residence: Pune, MH, India 🇮🇳
-Nick Name: AJ
+## 🔐 Personal Information
+**Date of Birth:** 20 Aug 2003
+**Residence:** Pune, MH, India 🇮🇳
+**Nick Name:** AJ
 
 
 [Whatsapp](https://wa.me/+919325324711)/ [Instagram](https://www.instagram.com/_https.cyberexpert__) / [Email ID](mail:atharvyewale102@gmail.com)
-⚜️ Current Affairs
-Note: work in process and maintainance
+## ⚜️ Current Affairs
+_**Note: work in process and maintainance**_
 
-1st startup - 2Way Infotech pvt ltd - Web3, ERP, Digital Networking, Cyber Security, CEH, Web Development, App Development & Software Development.
-2nd startup - HotDate - the indian dating app 2023 - Romance, dating, relationship & love.
-💼 Team Members & Partners
-Note: All Are professionals on rank based of indian institues
+**1st startup** - _Ayekar Infotech pvt ltd - Web3, ERP, Digital Networking, Cyber Security, CEH, Web Development, App Development & Software Development._
+**2nd startup** - _HotDate - the indian dating app 2023 - Romance, dating, relationship & love._
 
-CEO & FOUNDER - Atharva J. Yewale Of HotDate - The Indian Dating App.
-MD - Karan D. Thanage of 2way infotech pvt ltd & HotDate - The Indian Dating App.
-CFO - Mujahid Bagwan of 2way infotech pvt ltd & HotDate - The Indian Dating App.
-👩🏼‍💻 Development Experience
+## 💼 Team Members & Partners
+_**Note: All Are professionals on rank based of indian institues**_
+
+**CEO & FOUNDER** - Atharva J. Yewale _Of HotDate - The Indian Dating App._
+**MD** - Karan D. Thanage _of Ayekar infotech pvt ltd & HotDate - The Indian Dating App._
+**CFO** - Mujahid Bagwan _of Ayekar infotech pvt ltd & HotDate - The Indian Dating App._
+
+## 👩🏼‍💻 Development Experience
+
 Frontend Developer @BRYTER (Dec 2022 - Mar 2023)
 No-code platform that enables professionals to build interactive applications.
 
@@ -47,7 +50,7 @@ JavaScript SDK guide
 Node.js example app and courses
 Concept references: Domain model, Multiple environments
 
-🗞 Professional Ethical Hacking Experience
+## 🗞 Professional Ethical Hacking Experience
 This section only accounts for work done post-career change.
 
 
@@ -65,12 +68,12 @@ What Is a Backdoor Attack? - CrowdStrike
 Demystifying backdoor attacks on deep neural networks
 Backdoor Deployment and Ransomware
 
-💬 Languages
+## 💬 Languages
 🇮🇳 Marathi: Native
 🇮🇳 Hindi: B1 🇺🇸 English: B2
 
 
-👩🏼‍🎓 Education
+## 👩🏼‍🎓 Education
 18-Months intensive coding course focused on Professional Ethical Hacking
 EC-Council - MH, INDIA (Apr 2020 - Apr 2021)
 
