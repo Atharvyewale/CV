@@ -12,7 +12,7 @@ _**Website Developer and Professional Ethical Hacker based in India 🇮🇳**_ 
 ## ⚜️ Current Affairs
 _**Note: work in process and maintainance**_
 
-**1st startup** - _Ayekar Infotech pvt ltd - Web3, ERP, Digital Networking, Cyber Security, CEH, Web Development, App Development & Software Development._
+**1st startup** - _Ayekar Infotech pvt ltd - Web3, ERP, Digital Networking, Cyber Security, CEH, Web Development, App Development & Software Development._ <br>
 **2nd startup** - _HotDate - the indian dating app 2023 - Romance, dating, relationship & love._ 
 <br><br>
 
