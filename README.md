@@ -2,7 +2,6 @@
 _**Website Developer and Professional Ethical Hacker based in India 🇮🇳**_ <br>
 
 ## 🔐 Personal Information
-**Date of Birth:** 20 Aug 2003 <br>
 **Residence:** Pune, MH, India 🇮🇳 <br>
 **Nick Name:** AJ <br><br>
 
